@@ -1,35 +1,18 @@
 cff-version: 1.2.0
 title: "Köstliche Details – Website Code"
 version: "2025-07-31"
-doi: 
+doi: " "
 date-released: "2025-07-31"
 repository: "https://github.com/Reiss-Engelhorn-Museen/koestliche-details"
-abstract: |
-  Statischer HTML-Build der digitalen Publikation »Köstliche Details«.
-  Texte: Irmgard Siede · Fotografien: Rebecca Kind ·
-  Technische Umsetzung: Leslie P. Zimmermann ·
-  Herausgeber: Reiss-Engelhorn-Museen.
+abstract: "Statischer HTML-Build der digitalen Publikation »Köstliche Details«. Texte: Irmgard Siede · Fotografien: Rebecca Kind · Technische Umsetzung: Leslie P. Zimmermann · Herausgeber: Reiss-Engelhorn-Museen."
 license: "CC-BY-4.0"
 authors:
   - family-names: "Zimmermann"
     given-names: "Leslie P."
     affiliation: "Reiss-Engelhorn-Museen"
     orcid: "https://orcid.org/0000-0002-9086-9468"
-    roles: ["software", "contact"]
   - family-names: "Siede"
     given-names: "Irmgard"
     affiliation: "Reiss-Engelhorn-Museen"
-    roles: ["author"]
   - family-names: "Kind"
     given-names: "Rebecca"
-    affiliation: 
-    roles: ["photographer"]
-preferred-citation:
-  type: software
-  title: "Köstliche Details – Website Code"
-  year: 2025
-  authors:
-    - Leslie P. Zimmermann
-    - Irmgard Siede
-    - Rebecca Kind
-  institution: "Reiss-Engelhorn-Museen"
