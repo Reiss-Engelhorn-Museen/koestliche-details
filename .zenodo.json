@@ -1,11 +1,13 @@
 {
   "title": "Köstliche Details — Website Source",
+  "doi": "10.5281/zenodo.16652602",
   "upload_type": "software",
-  "description": "Static HTML, CSS and JavaScript build of the digital publication “Köstliche Details — Intricate Views of Mannheim Through the Lens”. The site, first released on 31 July 2025, presents finely detailed photographic views of Mannheim, combining historical research with macro photography. This deposit contains the complete, ready-to-host website that was generated with Quire™ (© J. Paul Getty Trust, BSD-3-Clause).",
+  "description": "Static HTML, CSS and JavaScript build of the digital publication “Köstliche Details: Filigrane Mannheim-Ansichten durch die Linse”. The site, first released on 31 July 2025, presents finely detailed photographic views of Mannheim, combining historical research with macro photography. This deposit contains the complete, ready-to-host website that was generated with Quire™ (© J. Paul Getty Trust, BSD-3-Clause).",
   "creators": [
         {
       "name": "Zimmermann, Leslie P.",
-      "affiliation": "Reiss-Engelhorn-Museen, Mannheim, Germany"
+      "affiliation": "Reiss-Engelhorn-Museen, Mannheim, Germany",
+      "orcid": "0000-0002-9086-9468"
     },
     {
       "name": "Siede, Irmgard",

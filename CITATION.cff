@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this website source in your work, please cite it as follows:"
 title: "Köstliche Details — Website Source"
 version: "1.0.0"
-doi: 10.5281/zenodo.XXXXX
+doi: "10.5281/zenodo.16652602"
 date-released: 2025-07-31
 url: https://koestliche-details.rem-mannheim.eu
 repository-code: https://github.com/Reiss-Engelhorn-Museen/koestliche-details
@@ -17,6 +17,7 @@ authors:
   - family-names: Zimmermann
     given-names: Leslie P.
     affiliation: Reiss-Engelhorn-Museen, Mannheim, Germany
+    orcid: https://orcid.org/0000-0002-9086-9468
   - family-names: Siede
     given-names: Irmgard
     affiliation: Reiss-Engelhorn-Museen, Mannheim, Germany
