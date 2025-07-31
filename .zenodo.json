@@ -1,22 +1,47 @@
 {
-  "title": "Köstliche Details – Website Code",
-  "description": "Statischer Website-Build der digitalen Publikation »Köstliche Details«. Texte: Irmgard Siede • Fotografien: Rebecca Kind • Technische Umsetzung: Leslie P. Zimmermann. Diese Aufnahme enthält ausschließlich den gerenderten Web-Code; die zitierfähige PDF-Edition ist unter DOI 10.5281/zenodo.16641353 abrufbar.",
+  "title": "Köstliche Details — Website Source",
   "upload_type": "software",
-  "version": "2025-07-31",
-  "publication_date": "2025-07-31",
-  "publisher": "Reiss-Engelhorn-Museen",
-  "license": "cc-by-4.0",
-  "keywords": ["Quire", "Digital Humanities", "Mannheim", "Museums"],
+  "description": "Static HTML, CSS and JavaScript build of the digital publication “Köstliche Details — Intricate Views of Mannheim Through the Lens”. The site, first released on 31 July 2025, presents finely detailed photographic views of Mannheim, combining historical research with macro photography. This deposit contains the complete, ready-to-host website that was generated with Quire™ (© J. Paul Getty Trust, BSD-3-Clause).",
   "creators": [
-    { "name": "Zimmermann, Leslie P.", "affiliation": "Reiss-Engelhorn-Museen", "orcid": "0000-0002-9086-9468" },
-    { "name": "Siede, Irmgard",       "affiliation": "Reiss-Engelhorn-Museen" },
-    { "name": "Kind, Rebecca",        "affiliation": "Reiss-Engelhorn-Museen" }
+        {
+      "name": "Zimmermann, Leslie P.",
+      "affiliation": "Reiss-Engelhorn-Museen, Mannheim, Germany"
+    },
+    {
+      "name": "Siede, Irmgard",
+      "affiliation": "Reiss-Engelhorn-Museen, Mannheim, Germany"
+    },
+    {
+      "name": "Kind, Rebecca"
+    }
   ],
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "keywords": [
+    "Quire",
+    "photography",
+    "Mannheim",
+    "digital humanities",
+    "static site"
+  ],
+  "publication_date": "2025-07-31",
+  "version": "1.0.0",
+  "software_version": "1.0.0",
   "related_identifiers": [
     {
       "identifier": "10.5281/zenodo.16641353",
       "relation": "isSupplementTo",
       "resource_type": "publication"
+    },
+    {
+      "identifier": "https://github.com/Reiss-Engelhorn-Museen/koestliche-details",
+      "relation": "isSourceOf",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://koestliche-details.rem-mannheim.eu",
+      "relation": "isIdenticalTo",
+      "resource_type": "other"
     }
   ]
 }
