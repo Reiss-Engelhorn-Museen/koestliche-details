@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://koestliche-details.rem-mannheim.eu/iiif/neckartor/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Glasbecher mit Ansicht des Neckartors in Mannheim, um 1840"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://koestliche-details.rem-mannheim.eu/iiif/neckartor/canvas",
+      "type": "Canvas",
+      "height": 1200,
+      "width": 1800,
+      "items": [
+        {
+          "id": "https://koestliche-details.rem-mannheim.eu/iiif/neckartor/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://koestliche-details.rem-mannheim.eu/iiif/neckartor/canvas/neckartor",
+              "motivation": "painting",
+              "target": "https://koestliche-details.rem-mannheim.eu/iiif/neckartor/canvas",
+              "type": "Annotation",
+              "body": {
+                "id": "https://koestliche-details.rem-mannheim.eu/iiif/neckartor/neckartor/tiles/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1200,
+                "width": 1800,
+                "label": {
+                  "en": [
+                    "Glasbecher mit Ansicht des Neckartors in Mannheim, um 1840"
+                  ]
+                },
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://koestliche-details.rem-mannheim.eu/iiif/neckartor/neckartor/tiles/info.json",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Köstliche Details – Website Code",
+  "description": "Statischer Website-Build der digitalen Publikation »Köstliche Details«. Texte: Irmgard Siede • Fotografien: Rebecca Kind • Technische Umsetzung: Leslie P. Zimmermann. Diese Aufnahme enthält ausschließlich den gerenderten Web-Code; die zitierfähige PDF-Edition ist unter DOI 10.5281/zenodo.16641353 abrufbar.",
+  "upload_type": "software",
+  "version": "2025-07-31",
+  "publication_date": "2025-07-31",
+  "publisher": "Reiss-Engelhorn-Museen",
+  "license": "cc-by-4.0",
+  "keywords": ["Quire", "Digital Humanities", "Mannheim", "Museums"],
+  "creators": [
+    { "name": "Zimmermann, Leslie P.", "affiliation": "Reiss-Engelhorn-Museen" },
+    { "name": "Siede, Irmgard",       "affiliation": "Reiss-Engelhorn-Museen" },
+    { "name": "Kind, Rebecca",        "affiliation": "Reiss-Engelhorn-Museen" }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.16641353",
+      "relation": "isSupplementTo",
+      "resource_type": "publication"
+    }
+  ]
+}

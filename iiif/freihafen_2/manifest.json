@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://koestliche-details.rem-mannheim.eu/iiif/freihafen_2/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Glasbecher mit Ansicht des Freihafens in Mannheim, Mitte 19. Jh."
+    ]
+  },
+  "items": [
+    {
+      "id": "https://koestliche-details.rem-mannheim.eu/iiif/freihafen_2/canvas",
+      "type": "Canvas",
+      "height": 1200,
+      "width": 1800,
+      "items": [
+        {
+          "id": "https://koestliche-details.rem-mannheim.eu/iiif/freihafen_2/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://koestliche-details.rem-mannheim.eu/iiif/freihafen_2/canvas/freihafen_2",
+              "motivation": "painting",
+              "target": "https://koestliche-details.rem-mannheim.eu/iiif/freihafen_2/canvas",
+              "type": "Annotation",
+              "body": {
+                "id": "https://koestliche-details.rem-mannheim.eu/iiif/freihafen_2/freihafen_2/tiles/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1200,
+                "width": 1800,
+                "label": {
+                  "en": [
+                    "Glasbecher mit Ansicht des Freihafens in Mannheim, Mitte 19. Jh."
+                  ]
+                },
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://koestliche-details.rem-mannheim.eu/iiif/freihafen_2/freihafen_2/tiles/info.json",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://koestliche-details.rem-mannheim.eu/iiif/alter_bahnhof/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Glasbecher mit Ansicht des Badischen Bahnhofs in Mannheim, Mitte 19. Jh."
+    ]
+  },
+  "items": [
+    {
+      "id": "https://koestliche-details.rem-mannheim.eu/iiif/alter_bahnhof/canvas",
+      "type": "Canvas",
+      "height": 1800,
+      "width": 1800,
+      "items": [
+        {
+          "id": "https://koestliche-details.rem-mannheim.eu/iiif/alter_bahnhof/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://koestliche-details.rem-mannheim.eu/iiif/alter_bahnhof/canvas/alter_bahnhof",
+              "motivation": "painting",
+              "target": "https://koestliche-details.rem-mannheim.eu/iiif/alter_bahnhof/canvas",
+              "type": "Annotation",
+              "body": {
+                "id": "https://koestliche-details.rem-mannheim.eu/iiif/alter_bahnhof/alter_bahnhof/tiles/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1800,
+                "width": 1800,
+                "label": {
+                  "en": [
+                    "Glasbecher mit Ansicht des Badischen Bahnhofs in Mannheim, Mitte 19. Jh."
+                  ]
+                },
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://koestliche-details.rem-mannheim.eu/iiif/alter_bahnhof/alter_bahnhof/tiles/info.json",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

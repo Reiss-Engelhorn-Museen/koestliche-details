@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://koestliche-details.rem-mannheim.eu/iiif/kat_3/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Kat. Nr. 3"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://koestliche-details.rem-mannheim.eu/iiif/kat_3/canvas",
+      "type": "Canvas",
+      "height": 5796,
+      "width": 3870,
+      "items": [
+        {
+          "id": "https://koestliche-details.rem-mannheim.eu/iiif/kat_3/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://koestliche-details.rem-mannheim.eu/iiif/kat_3/canvas/kat_3",
+              "motivation": "painting",
+              "target": "https://koestliche-details.rem-mannheim.eu/iiif/kat_3/canvas",
+              "type": "Annotation",
+              "body": {
+                "id": "https://koestliche-details.rem-mannheim.eu/iiif/kat_3/kat_3/tiles/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5796,
+                "width": 3870,
+                "label": {
+                  "en": [
+                    "Kat. Nr. 3"
+                  ]
+                },
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://koestliche-details.rem-mannheim.eu/iiif/kat_3/kat_3/tiles/info.json",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
