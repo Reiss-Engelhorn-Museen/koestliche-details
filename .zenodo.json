@@ -8,7 +8,7 @@
   "license": "cc-by-4.0",
   "keywords": ["Quire", "Digital Humanities", "Mannheim", "Museums"],
   "creators": [
-    { "name": "Zimmermann, Leslie P.", "affiliation": "Reiss-Engelhorn-Museen" },
+    { "name": "Zimmermann, Leslie P.", "affiliation": "Reiss-Engelhorn-Museen", "orcid": "0000-0002-9086-9468" },
     { "name": "Siede, Irmgard",       "affiliation": "Reiss-Engelhorn-Museen" },
     { "name": "Kind, Rebecca",        "affiliation": "Reiss-Engelhorn-Museen" }
   ],
